@@ -1,0 +1,45 @@
+/* BACKGROUND */
+body{background-color: indigo;}
+.metro li:hover ul{background-color: #fff;}
+.metro li ul li:first-child a{background-color: #aa40ff;}
+ul.metro li.ho a.box { background-color: #a400ab; }
+ul.metro li.he a.box { background-color: #f25022; }
+ul.metro li.me a.box { background-color: #ff7f25; }
+ul.metro li.in a.box { background-color: #2777ec; }
+ul.metro li.lo a.box { background-color: #00a6ed; }
+ul.metro li.cl a.box { background-color: #009e00; }
+ul.metro li.gb a.box { background-color: #7fba00; }
+ul.metro li.yt a.box { background-color: #bb1d48; }
+ul.metro li.fb a.box { background-color: #5c39b6; }
+ul.metro li.lg a.box { background-color: #ffb901; }
+ul.metro li.ad a.box { background-color: #1bb97a; }
+.titleSide{background-color: #691bb8;}
+#bahasa ul li:hover,#theme ul li:hover{background: #8425e5;}
+.tagline,#counterInfo{background-color:#aa40ff;}
+.detail a{background-color: #ff4633;}
+.detail a:hover{background-color: #ff0000;}
+.abstract{background-color:#aa40ff;}
+.dataListHeader{background-color: #89c1db !important;}
+.popWrap{background-color: indigo;}
+#loginButton,.memberButton,.biblioMarkFormAction input,.loginButton,.homeButton,#counter,.searchButton{background-color: #aa40ff;}
+#loginButton:hover,.memberButton:hover,.biblioMarkFormAction input:hover,.loginButton:hover,.homeButton:hover,#counter:hover,.searchButton:hover{background-color: #be6eff;}
+.item{background-color: #fff;}
+.pagingList{background-color: #aa40ff;}
+
+/* COLOR */
+h1,h2,h3,h4,h5,h6{color: #ff7e24;}
+.metro li ul a{color: #aa40ff;}
+.tagline a{color: #82b7d0;}
+.sidepage a{color: #004a00;}
+.collection-detail th{color: #004a00;}
+.value{color: #aa40ff;}
+.memberLoanListInfo a,.memberLoanHistInfo a{color: #1bb97a;}
+.md-nav ul li a:hover,.advForm{color: #ff7e24}
+.md-nav-main { position: absolute; top: 95px; left: 80px; color:#ff7e24 }
+.titleField{color: #aa40ff;}
+.xmlDetailLink {color: #fff;}
+.biblioPaging b, .pagingList a:hover{color:#ff0000;}
+#inyong{color: #0048b2;text-shadow: 1px 1px 1px #63a2ff;}
+
+/* OUTLINE */
+ul.metro li a.box:hover, ul.metro li .box:hover {outline: 2px solid #6d6d6d;}

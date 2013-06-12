@@ -1,0 +1,41 @@
+/* BACKGROUND */
+body{background-color: #dc4fad;}
+.metro li:hover ul{background-color: #fff;}
+.metro li ul li:first-child a{background-color: #aa40ff;}
+ul.metro li.ho a.box { background-color: #ff6ecd; }
+ul.metro li.he a.box { background-color: #ff6ecd; }
+ul.metro li.me a.box { background-color: #ff6ecd; }
+ul.metro li.in a.box { background-color: #ff6ecd; }
+ul.metro li.lo a.box { background-color: #ff6ecd; }
+ul.metro li.cl a.box { background-color: #ff6ecd; }
+ul.metro li.gb a.box { background-color: #ff6ecd; }
+ul.metro li.yt a.box { background-color: #ff6ecd; }
+ul.metro li.fb a.box { background-color: #ff6ecd; }
+ul.metro li.lg a.box { background-color: #ff6ecd; }
+ul.metro li.ad a.box { background-color: #ff6ecd; }
+.titleSide{background-color: #e064b7;}
+#bahasa ul li:hover,#theme ul li:hover{background-color:#ff76bc;}
+.tagline,#counterInfo{background-color:#ff76bc;}
+.detail a{background-color: #ff4633;}
+.detail a:hover{background-color: #ff0000;}
+.abstract{background-color:#ff76bc;}
+.dataListHeader{background-color: #89c1db !important;}
+.popWrap{background-color: #e064b7;}
+#loginButton,.memberButton,.biblioMarkFormAction input,.loginButton,.homeButton,#counter,.searchButton{background-color: #ff76bc;}
+#loginButton:hover,.memberButton:hover,.biblioMarkFormAction input:hover,.loginButton:hover,.homeButton:hover,#counter:hover,.searchButton:hover{background-color: #ff89c5;}
+.item{background-color: #ff6ecd;}
+.pagingList{background-color:#ff76bc;}
+
+/* COLOR */
+.metro li ul a{color: #aa40ff;}
+.tagline a{color: #82b7d0;}
+.sidepage a{color: #e064b7;}
+.collection-detail th{color: #e064b7;}
+.value{color: #e064b7;}
+.memberLoanListInfo a,.memberLoanHistInfo a{color: #1bb97a;}
+.md-nav ul li a:hover,.advForm{color: #ff76bc;}
+.md-nav-main { position: absolute; top: 95px; left: 80px; color:#ff7e24 }
+.titleField{color: #fff;}
+.xmlDetailLink {color: #fff;}
+.biblioPaging b, .pagingList a:hover{color:#ff0000;}
+#inyong{color: #dc4fad;text-shadow: 1px 1px 1px #ffc5e3;}

@@ -1,0 +1,41 @@
+/* BACKGROUND */
+body{background-color: #1d1d1d;}
+.metro li:hover ul{background-color: #fff;}
+.metro li ul li:first-child a{background-color: #aa40ff;}
+ul.metro li.ho a.box { background-color: #2673ec; }
+ul.metro li.he a.box { background-color: #2673ec; }
+ul.metro li.me a.box { background-color: #2673ec; }
+ul.metro li.in a.box { background-color: #2673ec; }
+ul.metro li.lo a.box { background-color: #2673ec; }
+ul.metro li.cl a.box { background-color: #2673ec; }
+ul.metro li.gb a.box { background-color: #2673ec; }
+ul.metro li.yt a.box { background-color: #2673ec; }
+ul.metro li.fb a.box { background-color: #2673ec; }
+ul.metro li.lg a.box { background-color: #2673ec; }
+ul.metro li.ad a.box { background-color: #2673ec; }
+.titleSide{background-color: #232323;}
+#bahasa ul li:hover,#theme ul li:hover{background-color:#2673ec;}
+.tagline,#counterInfo{background-color:#2673ec;}
+.detail a{background-color: #ff4633;}
+.detail a:hover{background-color: #ff0000;}
+.abstract{background-color:#2673ec;}
+.dataListHeader{background-color: #89c1db !important;}
+.popWrap{background-color: #232323;}
+#loginButton,.memberButton,.biblioMarkFormAction input,.loginButton,.homeButton,#counter,.searchButton{background-color: #2673ec;}
+#loginButton:hover,.memberButton:hover,.biblioMarkFormAction input:hover,.loginButton:hover,.homeButton:hover,#counter:hover,.searchButton:hover{background-color: #4485ef;}
+.item{background-color: #2673ec;}
+.pagingList{background-color:#2673ec;}
+
+/* COLOR */
+.metro li ul a{color: #aa40ff;}
+.tagline a{color: #82b7d0;}
+.sidepage a{color: #232323;}
+.collection-detail th{color: #232323;}
+.value{color: #0050ce;}
+.memberLoanListInfo a,.memberLoanHistInfo a{color: #1bb97a;}
+.md-nav ul li a:hover,.advForm{color: #2673ec;}
+.md-nav-main { position: absolute; top: 95px; left: 80px; color:#ff7e24 }
+.titleField{color: #fff;}
+.xmlDetailLink {color: #fff;}
+.biblioPaging b, .pagingList a:hover{color:#ff0000;}
+#inyong{color: #003890;text-shadow: 1px 1px 1px #408aff;}
