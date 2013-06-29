@@ -1,1 +1,29 @@
-TEMPLATE METRO FOR SLiMS
+TEMPLATE METRO FOR SLiMS | ido.alit@gmail.com
+======================
+
+INSTALASI
+======================
+- Ekstrak file ke dalam folder template SLiMS
+- Login sebagai Admin
+- Buka menu Sistem
+- Ganti template publik ke metro_slims
+- Simpan konfigurasi.
+- Enjoy :)
+
+MENGGANTI THEME TEMPLATE METRO
+======================
+- Login sebagai Admin
+- Buka beranda OPAC, akan muncul menu personalize
+- Pilih warna theme yang tersedia
+- Enjoy :)
+
+CHANGE LOG
+======================
+#Update_4
+* remove new title slideshow
+* add promoted title in home page
+* add parallax scroll
+* add 10 color theme
+* new UI for login and visitor
+* fix some bugs
+* compatibility with meranti and cendana
